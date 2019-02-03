@@ -1,0 +1,17 @@
+[  
+   {  
+      "name":"username",
+      "locatorType":"xpath",
+      "value":"//input[contains(@id,'UserNameTextBox_TextBox')]"
+   },
+   {  
+      "name":"password",
+      "locatorType":"xpath",
+      "value":"//input[contains(@id,'PasswordTextBox_TextBox')]"
+   },
+   {  
+      "name":"login",
+      "locatorType":"xpath",
+      "value":"//span[contains(@id,'LoginButton')]"
+   }
+]
